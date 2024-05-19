@@ -9,6 +9,8 @@ function varargout = NEW1(varargin)
 %      NEW1('CALLBACK',hObject,eventData,handles,...) calls the local
 %      function named CALLBACK in NEW1.M with the given input arguments.
 %
+%% 
+%% Ïë¡¤   
 %      NEW1('Property','Value',...) creates a new NEW1 or raises the
 %      existing singleton*.  Starting from the left, property value pairs are
 %      applied to the GUI before NEW1_OpeningFcn gets called.  An
